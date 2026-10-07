@@ -197,7 +197,7 @@ Figure text uses the Arial font. If Arial is not installed, R uses a default fon
 If you use this code, please cite the manuscript and this repository. GitHub shows a "Cite this repository" button based on `CITATION.cff`.
 
 - Manuscript: Salah, Y.; Nadeem, A.; Alqahtani, F. *Biology* (MDPI), submitted.
-- Archived release (v1.0.0): Zenodo DOI to be added at release.
+- Archived release (v1.0.0): Zenodo, DOI [10.5281/zenodo.23212074](https://doi.org/10.5281/zenodo.23212074).
 
 ## License
 
