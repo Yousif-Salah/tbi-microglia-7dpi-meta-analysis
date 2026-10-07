@@ -1,0 +1,29 @@
+# R session files
+.Rhistory
+.RData
+.Rdata
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Large fitted models saved by scripts 01-04 (re-created by running them)
+results/dds/
+
+# Downloaded input data (get it from GEO, see README)
+data/GSE167459/
+data/GSE253476/
+data/GSE276647/
+data/GSE283560/
+data/geo_cache/
+data/STRING_cache/
+data/reference/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local test files and results created by running the scripts
+test_run/
+results/
+figures/

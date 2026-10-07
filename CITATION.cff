@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Code for: Reproducible Interferon-Centered Microglial Response at 7 Days after Traumatic Brain Injury: A Transcriptomic Meta-Analysis with Focus on the BTK/NOX2 Panel"
+type: software
+authors:
+  - family-names: "Salah"
+    given-names: "Yousif"
+    orcid: "https://orcid.org/0000-0002-3884-1206"
+    affiliation: "Department of Pharmacology and Toxicology, College of Pharmacy, King Saud University, Riyadh 11451, Saudi Arabia"
+  - family-names: "Nadeem"
+    given-names: "Ahmed"
+    orcid: "https://orcid.org/0000-0003-2038-8367"
+    affiliation: "Department of Pharmacology and Toxicology, College of Pharmacy, King Saud University, Riyadh 11451, Saudi Arabia"
+  - family-names: "Alqahtani"
+    given-names: "Faleh"
+    orcid: "https://orcid.org/0000-0003-3924-593X"
+    affiliation: "Department of Pharmacology and Toxicology, College of Pharmacy, King Saud University, Riyadh 11451, Saudi Arabia"
+version: "1.0.0"
+date-released: "2026-10-07"
+license: MIT
+repository-code: "https://github.com/Yousif-Salah/tbi-microglia-7dpi-meta-analysis"
+keywords:
+  - traumatic brain injury
+  - microglia
+  - meta-analysis
+  - RNA-seq
+  - neuroinflammation
+  - oxidative stress
+  - BTK
+  - NOX2
+# After the Zenodo release, add the DOI here, for example:
+# doi: "10.5281/zenodo.XXXXXXX"

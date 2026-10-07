@@ -1,0 +1,5 @@
+"dataset","n_samples","n_genes","PC1_percent","PC2_percent","flagged_sample","lowest_within_group_correlation"
+"GSE167459",6,16211,58.9,17.6,"1304M_S77","1304M_S77"
+"GSE253476",6,19016,60.9,12.5,"Sham_Mg_R3","WT_7d_Mg_R2"
+"GSE276647",8,14901,20.9,18.1,"TBI_Iso_1","TBI_Iso_1"
+"GSE283560",11,46201,46,16.9,"GSM8666331","GSM8666331"

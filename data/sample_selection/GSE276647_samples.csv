@@ -1,0 +1,55 @@
+"dataset","gsm","title","group","status","reason","cell type:ch1","tissue:ch1","treatment:ch1","analysis_name"
+"GSE276647","GSM8503560","Sham_Iso_1_7d","Sham","used","Isotype-treated microglia at 7 dpi (Sham or TBI)","Microglia","Brain","Isotype (Iso)","Sham_1"
+"GSE276647","GSM8503561","Sham_Iso_2_7d","Sham","used","Isotype-treated microglia at 7 dpi (Sham or TBI)","Microglia","Brain","Isotype (Iso)","Sham_2"
+"GSE276647","GSM8503562","Sham_Iso_3_7d","Sham","used","Isotype-treated microglia at 7 dpi (Sham or TBI)","Microglia","Brain","Isotype (Iso)","Sham_3"
+"GSE276647","GSM8503563","Sham_Iso_4_7d","Sham","used","Isotype-treated microglia at 7 dpi (Sham or TBI)","Microglia","Brain","Isotype (Iso)","Sham_4"
+"GSE276647","GSM8503564","TBI_Iso_1_7d","TBI","used","Isotype-treated microglia at 7 dpi (Sham or TBI)","Microglia","Brain","Isotype (Iso)","TBI_Iso_1"
+"GSE276647","GSM8503565","TBI_Iso_2_7d","TBI","used","Isotype-treated microglia at 7 dpi (Sham or TBI)","Microglia","Brain","Isotype (Iso)","TBI_Iso_2"
+"GSE276647","GSM8503566","TBI_Iso_3_7d","TBI","used","Isotype-treated microglia at 7 dpi (Sham or TBI)","Microglia","Brain","Isotype (Iso)","TBI_Iso_3"
+"GSE276647","GSM8503567","TBI_Iso_4_7d","TBI","used","Isotype-treated microglia at 7 dpi (Sham or TBI)","Microglia","Brain","Isotype (Iso)","TBI_Iso_4"
+"GSE276647","GSM8503572","Sham_Iso_1_1m","Sham","excluded","1 month time point, not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503584","Sham_Iso_1_1m_delayed","Sham","excluded","1 month time point (delayed-treatment experiment), not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503599","Sham_Iso_1_1m_Female_Severe_TBI","Sham","excluded","1 month time point (female mice, severe TBI), not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503573","Sham_Iso_2_1m","Sham","excluded","1 month time point, not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503585","Sham_Iso_2_1m_delayed","Sham","excluded","1 month time point (delayed-treatment experiment), not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503600","Sham_Iso_2_1m_Female_Severe_TBI","Sham","excluded","1 month time point (female mice, severe TBI), not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503574","Sham_Iso_3_1m","Sham","excluded","1 month time point, not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503586","Sham_Iso_3_1m_delayed","Sham","excluded","1 month time point (delayed-treatment experiment), not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503601","Sham_Iso_3_1m_Female_Severe_TBI","Sham","excluded","1 month time point (female mice, severe TBI), not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503575","Sham_Iso_4_1m","Sham","excluded","1 month time point, not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503587","Sham_Iso_4_1m_delayed","Sham","excluded","1 month time point (delayed-treatment experiment), not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503602","Sham_Iso_4_1m_Female_Severe_TBI","Sham","excluded","1 month time point (female mice, severe TBI), not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503588","Sham_Iso_5_1m_delayed","Sham","excluded","1 month time point (delayed-treatment experiment), not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503603","Sham_Iso_5_1m_Female_Severe_TBI","Sham","excluded","1 month time point (female mice, severe TBI), not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503576","TBI_Iso_1_1m","TBI","excluded","1 month time point, not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503589","TBI_Iso_1_1m_delayed","TBI","excluded","1 month time point (delayed-treatment experiment), not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503604","TBI_Iso_1_1m_Female_Severe_TBI","TBI","excluded","1 month time point (female mice, severe TBI), not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503577","TBI_Iso_2_1m","TBI","excluded","1 month time point, not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503590","TBI_Iso_2_1m_delayed","TBI","excluded","1 month time point (delayed-treatment experiment), not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503605","TBI_Iso_2_1m_Female_Severe_TBI","TBI","excluded","1 month time point (female mice, severe TBI), not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503578","TBI_Iso_3_1m","TBI","excluded","1 month time point, not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503591","TBI_Iso_3_1m_delayed","TBI","excluded","1 month time point (delayed-treatment experiment), not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503606","TBI_Iso_3_1m_Female_Severe_TBI","TBI","excluded","1 month time point (female mice, severe TBI), not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503579","TBI_Iso_4_1m","TBI","excluded","1 month time point, not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503592","TBI_Iso_4_1m_delayed","TBI","excluded","1 month time point (delayed-treatment experiment), not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503607","TBI_Iso_4_1m_Female_Severe_TBI","TBI","excluded","1 month time point (female mice, severe TBI), not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503593","TBI_Iso_5_1m_delayed","TBI","excluded","1 month time point (delayed-treatment experiment), not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503608","TBI_Iso_5_1m_Female_Severe_TBI","TBI","excluded","1 month time point (female mice, severe TBI), not the 7 dpi time point","Microglia","Brain","Isotype (Iso)",NA
+"GSE276647","GSM8503580","TBI_aCD3_1_1m","TBI_antiCD3","excluded","1 month time point, not the 7 dpi time point","Microglia","Brain","Nasal Anti-CD3 (aCD3)",NA
+"GSE276647","GSM8503594","TBI_aCD3_1_1m_delayed","TBI_antiCD3","excluded","1 month time point (delayed-treatment experiment), not the 7 dpi time point","Microglia","Brain","Nasal Anti-CD3 (aCD3)",NA
+"GSE276647","GSM8503609","TBI_aCD3_1_1m_Female_Severe_TBI","TBI_antiCD3","excluded","1 month time point (female mice, severe TBI), not the 7 dpi time point","Microglia","Brain","Nasal Anti-CD3 (aCD3)",NA
+"GSE276647","GSM8503568","TBI_aCD3_1_7d","TBI_antiCD3","excluded","Nasal anti-CD3 treatment arm (treated group, not used)","Microglia","Brain","Nasal Anti-CD3 (aCD3)",NA
+"GSE276647","GSM8503581","TBI_aCD3_2_1m","TBI_antiCD3","excluded","1 month time point, not the 7 dpi time point","Microglia","Brain","Nasal Anti-CD3 (aCD3)",NA
+"GSE276647","GSM8503595","TBI_aCD3_2_1m_delayed","TBI_antiCD3","excluded","1 month time point (delayed-treatment experiment), not the 7 dpi time point","Microglia","Brain","Nasal Anti-CD3 (aCD3)",NA
+"GSE276647","GSM8503610","TBI_aCD3_2_1m_Female_Severe_TBI","TBI_antiCD3","excluded","1 month time point (female mice, severe TBI), not the 7 dpi time point","Microglia","Brain","Nasal Anti-CD3 (aCD3)",NA
+"GSE276647","GSM8503569","TBI_aCD3_2_7d","TBI_antiCD3","excluded","Nasal anti-CD3 treatment arm (treated group, not used)","Microglia","Brain","Nasal Anti-CD3 (aCD3)",NA
+"GSE276647","GSM8503582","TBI_aCD3_3_1m","TBI_antiCD3","excluded","1 month time point, not the 7 dpi time point","Microglia","Brain","Nasal Anti-CD3 (aCD3)",NA
+"GSE276647","GSM8503596","TBI_aCD3_3_1m_delayed","TBI_antiCD3","excluded","1 month time point (delayed-treatment experiment), not the 7 dpi time point","Microglia","Brain","Nasal Anti-CD3 (aCD3)",NA
+"GSE276647","GSM8503611","TBI_aCD3_3_1m_Female_Severe_TBI","TBI_antiCD3","excluded","1 month time point (female mice, severe TBI), not the 7 dpi time point","Microglia","Brain","Nasal Anti-CD3 (aCD3)",NA
+"GSE276647","GSM8503570","TBI_aCD3_3_7d","TBI_antiCD3","excluded","Nasal anti-CD3 treatment arm (treated group, not used)","Microglia","Brain","Nasal Anti-CD3 (aCD3)",NA
+"GSE276647","GSM8503583","TBI_aCD3_4_1m","TBI_antiCD3","excluded","1 month time point, not the 7 dpi time point","Microglia","Brain","Nasal Anti-CD3 (aCD3)",NA
+"GSE276647","GSM8503597","TBI_aCD3_4_1m_delayed","TBI_antiCD3","excluded","1 month time point (delayed-treatment experiment), not the 7 dpi time point","Microglia","Brain","Nasal Anti-CD3 (aCD3)",NA
+"GSE276647","GSM8503612","TBI_aCD3_4_1m_Female_Severe_TBI","TBI_antiCD3","excluded","1 month time point (female mice, severe TBI), not the 7 dpi time point","Microglia","Brain","Nasal Anti-CD3 (aCD3)",NA
+"GSE276647","GSM8503571","TBI_aCD3_4_7d","TBI_antiCD3","excluded","Nasal anti-CD3 treatment arm (treated group, not used)","Microglia","Brain","Nasal Anti-CD3 (aCD3)",NA
+"GSE276647","GSM8503598","TBI_aCD3_5_1m_delayed","TBI_antiCD3","excluded","1 month time point (delayed-treatment experiment), not the 7 dpi time point","Microglia","Brain","Nasal Anti-CD3 (aCD3)",NA
+"GSE276647","GSM8503613","TBI_aCD3_5_1m_Female_Severe_TBI","TBI_antiCD3","excluded","1 month time point (female mice, severe TBI), not the 7 dpi time point","Microglia","Brain","Nasal Anti-CD3 (aCD3)",NA

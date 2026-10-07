@@ -1,0 +1,7 @@
+genes_input: 160
+unique_genes_mapped: 154
+unmapped: Mx2;AU020206;Mx1;Clec7a;Iigp1c;Rpl14-ps1
+nodes: 154
+raw_edge_rows: 388
+unique_edges: 194
+string_version: 12.0
